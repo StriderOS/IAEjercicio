@@ -1,0 +1,13 @@
+{
+	"Tweets" : [
+		{"Stream":false,"texto":"Midsommar: La Historia en 1 Video"},
+		{"Stream":false,"texto":"Quiénes son? Solo respuestas incorrectas."},
+		{"Stream":false,"texto":"Se ve bueno este minijuego no?"},
+		{"Stream":true, "texto":"Vamos a darle al Among Us con el w2m crew"},
+		{"Stream":true, "texto":"En vivo! Continuemos con Alan Wake en PC"},
+		{"Stream":false,"texto":"Viernes deerror, reaccionando a videos muy de terror"},
+		{"Stream":true, "texto":"Vamos a darle al Fall Guys, en Sabado porque somos chavos"},
+		{"Stream":true, "texto":"Vamos a darle un rato al MEGA MAN X4 como de que no"},
+		{"Stream":true, "texto":"Hoy vamos a jugar un poco de todo"}
+	]
+}
